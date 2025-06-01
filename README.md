@@ -38,7 +38,7 @@ Khwaja Yunus Ali University
 > 📂 Place your screenshots in the `assets/images/` folder and use the below format to show them.
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/images/a_index.png" alt="Index Page" width="200" />
+  <img src="public/assets/images/a_index.png" alt="Index Page" width="200" />
   <img src="assets/images/create.png" alt="Create Page" width="200" />
   <img src="assets/images/update.png" alt="Update Page" width="200" />
 </div>
