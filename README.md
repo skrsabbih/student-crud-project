@@ -38,9 +38,11 @@ Khwaja Yunus Ali University
 > 📂 Place your screenshots in the `assets/images/` folder and use the below format to show them.
 
 ```md
-![Student List Page](assets/images/student-list.png)
-![Student Create Page](assets/images/student-create.png)
-![image](https://github.com/user-attachments/assets/c464f93d-769a-41cb-8e2f-a7426d87b212)
+<p float="left">
+  <img src="assets/images/a_index.png" alt="Index Page" width="200" />
+  <img src="assets/images/create.png" alt="Create Page" width="200" />
+  <img src="assets/images/update.png" alt="Update Page" width="200" />
+</p>
 
 
 ## How to Run This Project ------------------------------------ IF Help -----------------------------
