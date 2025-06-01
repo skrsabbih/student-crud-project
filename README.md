@@ -35,13 +35,11 @@ Khwaja Yunus Ali University
 
 ## 📸 Project Screenshots
 
-> 📂 Place your screenshots in the `assets/images/` folder and use the below format to show them.
-
-### 🖼️ Index Page | Create Page | Update Page
-
-![Index Page](https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/public/assets/images/a_index.png)
-![Create Page](https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/public/assets/images/create.png)
-![Update Page](https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/public/assets/images/update.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/student-crud-backend-api/public/assets/images/a_index.png" alt="Index Page" width="250"/>
+  <img src="https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/student-crud-backend-api/public/assets/images/create.png" alt="Create Page" width="250"/>
+  <img src="https://raw.githubusercontent.com/skrsabbih/student-crud-project/main/student-crud-backend-api/public/assets/images/update.png" alt="Update Page" width="250"/>
+</p>
 
 
 ## How to Run This Project ------------------------------------ IF Help -----------------------------
